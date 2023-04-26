@@ -36,3 +36,7 @@
 
 <img width="740" alt="Screenshot 2023-04-26 at 2 41 53" src="https://user-images.githubusercontent.com/58401645/234430950-0895d518-131b-4309-9f57-879315ea9c88.png">
 
+
+
+* קישור למשחק ב  :
+[itch.io](https://gamedevk-g.itch.io/doodlejump)
